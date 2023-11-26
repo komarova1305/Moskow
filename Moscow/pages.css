@@ -194,7 +194,7 @@ script {
 .big_subtitle {font-size: 20px;}
 .page_img {
 	width: 100%;
-    max-width: 1440px;
+    max-width: 768px;
 	border-radius: 12px, 12px, 0px, 0px;
 	}
 .page_content {
