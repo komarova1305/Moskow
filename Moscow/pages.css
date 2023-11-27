@@ -57,6 +57,14 @@ li {display: inline-block;
     gap: 30px;
 }
 
+.footer_li {display: inline-block;
+    list-style: none;
+    border-style: solid;
+    border-color:  white;
+    padding: 5px;
+    gap: 30px;
+}
+
 ul {
     display: flex;
     list-style: none;
