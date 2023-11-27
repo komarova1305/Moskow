@@ -47,12 +47,12 @@ body {background: #F1F1F1; margin: 0 auto;}
     margin: 0 150px;
 }
 
-li {display: inline-flex;
+li {display: inline-block;
     list-style: none;
-    font-size: 20px;
-    font-weight: 700px;
-    line-height: 20px;
-    gap: 24px;
+    border-style: solid;
+    border-color:  white;
+    padding: 5px;
+    gap: 30px;
 }
 
 ul {
@@ -61,7 +61,7 @@ ul {
     font-size: 20px;
     font-weight: 700px;
     line-height: 20px;
-    gap: 24px;
+    gap: 30px;
 }
 
 .links {
