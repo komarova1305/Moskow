@@ -48,11 +48,13 @@ li {display: inline-block;
     border-style: solid;
     border-color:  white;
     padding: 5px;
+    gap: 30px;
 }
 
 ul {
     display: flex;
     list-style: none;
+    gap: 30px;
 }
 
 .links {
