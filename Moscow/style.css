@@ -18,6 +18,11 @@ body {background: #f2f1f0; margin: 0 auto;}
     width: 100%
 }
 
+.nav { 
+    display: flex;
+    justify-content: space-between;
+}
+
 .footer_container {
     display: flex;
     align-items: center;
@@ -41,6 +46,7 @@ body {background: #f2f1f0; margin: 0 auto;}
 li {display: inline-flex;
     list-style: none;
     gap: 24px;
+    border: solid;
 }
 
 ul {
