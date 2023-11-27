@@ -43,10 +43,10 @@ body {background: #f2f1f0; margin: 0 auto;}
     font-family: "Anonymous Pro", sans-serif;
 }
 
-li {display: inline-flex;
+li {display: inline-block;
     list-style: none;
     gap: 24px;
-    border: solid;
+    border-style: solid;
 }
 
 ul {
