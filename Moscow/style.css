@@ -47,6 +47,8 @@ li {display: inline-block;
     list-style: none;
     gap: 24px;
     border-style: solid;
+    border-color:  white;
+    padding: 5px;
 }
 
 ul {
