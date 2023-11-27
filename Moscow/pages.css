@@ -35,7 +35,8 @@ body {background: #F1F1F1; margin: 0 auto;}
     justify-content: space-between; 
     max-width: 1440px;
     padding: 24px 0;
-    margin: 0 150px;
+    margin: 0 50px;
+    font-family: "Anonymous Pro", sans-serif;
 }
 
 .header_container {
@@ -44,7 +45,8 @@ body {background: #F1F1F1; margin: 0 auto;}
     justify-content: space-between; 
     max-width: 1440px;
     padding: 24px 0;
-    margin: 0 150px;
+    margin: 0 50px;
+    font-family: "Anonymous Pro", sans-serif;
 }
 
 li {display: inline-block;
