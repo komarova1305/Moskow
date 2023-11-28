@@ -48,6 +48,19 @@ body {background: #F1F1F1; margin: 0 auto;}
     font-family: "Anonymous Pro", sans-serif;
 }
 
+.nav-links { 
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    color: white;
+}
+
+.nav-links a {
+    color: white;
+    display: flex;
+    text-decoration: none;
+}
+
 li {display: inline-block;
     list-style: none;
     border-style: solid;
