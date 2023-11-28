@@ -23,6 +23,7 @@ body {background: #f2f1f0; margin: 0 auto;}
     flex-wrap: wrap;
     color: white;
     gap: 50px;
+    margin: 20px;
 }
 
 .nav-links a {
@@ -70,6 +71,7 @@ ul {
     list-style: none;
     justify-content: space-between;
     flex-wrap: wrap;
+    gap: 24px;
 }
 
 .links {
