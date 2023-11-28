@@ -198,6 +198,9 @@ ul {
     margin: 32px 16px;
     padding: 24px;
 	}
+iframe {display: block;
+    max-width: 336;
+    max-height: 336;}
 	
 .big_text {font-size: 16px;}
 .images {flex-direction: column; max-width: 343px; padding: 16px;}
