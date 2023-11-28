@@ -80,7 +80,6 @@ ul {
     list-style: none;
     font-size: 20px;
     font-weight: 700;
-    line-height: 20px;
     gap: 30px;
 }
 
@@ -90,7 +89,6 @@ ul {
     display:flex;
     font-size: 20px;
     font-weight: 700px;
-    line-height: 20px;
     gap: 24px;
 }
 
@@ -115,7 +113,6 @@ ul {
     font-family: "Anonymous Pro", sans-serif;
     font-size: 48px;
     font-weight: 700;
-    line-height: 48px;
     letter-spacing: 0em;
     color: white;
 }
@@ -143,7 +140,6 @@ ul {
     font-family: 'Anonymous Pro';
     font-size: 48px;
     font-weight: 400;
-    line-height: 48px;
     letter-spacing: 0em;
     text-align: left;
 }
@@ -152,7 +148,6 @@ ul {
     font-family: 'Anonymous Pro';
     font-size: 20px;
     font-weight: 400;
-    line-height: 28px;
     letter-spacing: 0em;
     text-align: justify;
     width: 100%;
@@ -191,7 +186,7 @@ ul {
 .nav-links a {font-size: 16px;}
 .page_img {
 	width: 100%;
-   	max-width: 768px;
+   	max-width: 343px;
 	border-radius: 12px, 12px, 0px, 0px;
 	}
 .page_content {
