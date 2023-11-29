@@ -62,7 +62,6 @@ li {display: inline-block;
     list-style: none;
     padding: 5px;
     gap: 24px;
-    font-size: 24px;
 }
 
 ul {
@@ -178,6 +177,7 @@ ul {
 
 @media (max-width: 768px) {
 .header_container {
+	flex-direction: column;
 	justify-content: space-between;
 	align-items: center; 
     	margin: 0 16px;
