@@ -168,6 +168,7 @@ ul {
 }
 
 @media (max-width: 768px) {
+.main {gap: 24px;}
 .header_container {
 	align-items: center; 
     	margin: 0 16px;
