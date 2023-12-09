@@ -182,7 +182,6 @@ ul {
 	padding: 24px 0 0 0;
 	}
 .footer_p {padding: 16px; margin: 0 16px; font-size: 16px;}
-.subtitle {font-size: 32px;}
 .nav-links a {font-size: 16px;}
 .page_img {
 	width: 100%;
@@ -198,7 +197,7 @@ ul {
     margin: 32px 16px;
     padding: 24px;
 	}
-.subtitle {font-size: 32px}
+.subtitle {font-size: 28px}
 iframe {display: block;
     max-width: 336;
     max-height: 336;}
