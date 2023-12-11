@@ -204,5 +204,6 @@ iframe {display: block;
     max-height: 336;}
 	
 .big_text {font-size: 18px;}
+.big_title {font-size: 30px;}
 .images {flex-direction: column; max-width: 343px; padding: 16px;}
 }
