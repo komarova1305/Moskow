@@ -66,6 +66,7 @@ li {display: inline-block;
     border-color:  white;
     padding: 5px;
     gap: 30px;
+    transition: background:lightgreen;
 }
 
 .text:hover {background:lightgreen;}
