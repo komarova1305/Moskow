@@ -66,7 +66,7 @@ li {display: inline-block;
     border-color:  white;
     padding: 5px;
     gap: 30px;
-    transition: background:lightgreen;
+    transition: background lightgreen;
 }
 .li:hover {background:lightgreen;}
 
