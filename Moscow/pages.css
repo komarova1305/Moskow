@@ -58,9 +58,7 @@ body {background: #F1F1F1; margin: 0 auto;}
     color: white;
     display: flex;
     text-decoration: none;
-    transition: background:lightgreen;
 }
-.nav-links:hover {background:lightgreen;}
 
 li {display: inline-block;
     list-style: none;
@@ -70,6 +68,7 @@ li {display: inline-block;
     gap: 30px;
     transition: background:lightgreen;
 }
+.li:hover {background:lightgreen;}
 
 .unic {background:lightgreen;}
 
