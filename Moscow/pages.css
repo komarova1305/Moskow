@@ -67,6 +67,8 @@ li {display: inline-block;
     padding: 5px;
     gap: 30px;
 }
+
+.text:hover {background:lightgreen;}
 .unic {background:lightgreen;}
 
 .footer_li {display: inline-block;
