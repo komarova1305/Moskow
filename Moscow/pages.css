@@ -186,7 +186,7 @@ ul {
 	padding: 24px 0 0 0;
 	}
 .footer_p {padding: 16px; margin: 0 16px; font-size: 16px;}
-.nav-links a {font-size: 16px;}
+.nav-links a {display: none;}
 .page_img {
 	width: 100%;
    	max-width: 343px;
