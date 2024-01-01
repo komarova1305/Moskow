@@ -55,6 +55,7 @@ body {background: #f2f1f0; margin: 0 auto;}
     display: flex;
     flex-direction: column;
     justify-content: center;
+    align-items: center;
     color: white;
     margin: 0;
     width: 50%;
