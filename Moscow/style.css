@@ -54,9 +54,10 @@ body {background: #f2f1f0; margin: 0 auto;}
     justify-content: center;
     color: white;
     margin: 0;
-    width: 30%;
+    width: 50%;
     background: grey;
     padding: 10px;
+    padding-left: 60px;
 }
 
 .nav_burger_links a {
