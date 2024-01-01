@@ -58,6 +58,8 @@ body {background: #f2f1f0; margin: 0 auto;}
     flex-wrap: wrap;
     color: white;
     margin: 0;
+    width: 50%;
+    background: grey;
 }
 
 .nav_burger_links a {
