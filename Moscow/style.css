@@ -213,7 +213,7 @@ ul {
 @media (max-width: 768px) {
 .header_container {
 	display: flex;
-	flex-decoration: column;
+	flex-direction: column;
 	justify-content: space-between;
 	align-items: center; 
     	margin: 0 16px;
@@ -222,7 +222,7 @@ ul {
 
 .sub_lines {
 	display: flex;
-	flex-decoration: row;
+	flex-direction: row;
 	justify-content: space-between;
 	align-items: center; 
 	}
