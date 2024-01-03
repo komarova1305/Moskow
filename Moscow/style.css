@@ -226,6 +226,7 @@ ul {
        
 hr {border: 2px solid white;}
 .nav-links {
+    display: flex;
     flex-direction: column;
     justify-content: center;
     color: white;
