@@ -245,7 +245,7 @@ ul {
 .line1.active {transform:rotate(45deg); position: relative; top: 11px;}
 .line2.active {display: none;}
 .line3.active {transform:rotate(-45deg);}
-.nav_burger_links.active {display: flex;}
+.nav_burger_links.active {display: inline-block;}
 	
 hr {border: 2px solid white;}
 .nav-links {display: none;}
