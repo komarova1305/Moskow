@@ -241,7 +241,7 @@ ul {
         width: 40px;
         right: 16px;
     }
-hr:hover ⁓ .nav_burger_links {display: flex;}
+.nav_burger_links {display: flex;}
 hr {border: 2px solid white;}
 .nav-links {display: none;}
 	
