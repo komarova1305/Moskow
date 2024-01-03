@@ -241,9 +241,9 @@ ul {
         width: 40px;
         right: 16px;
     }
-.line1.active {transform:rotate(45deg); bottom: 9px;}
+.line1.active {transform:rotate(45deg); top: 9px;}
 .line2.active {display: none;}
-.line3.active {transform:rotate(-45deg); top: 9px;}
+.line3.active {transform:rotate(-45deg); bottom: 9px;}
 .nav_burger_links.active {display: flex;}
 	
 hr {border: 2px solid white;}
