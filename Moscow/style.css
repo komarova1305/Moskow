@@ -244,9 +244,7 @@ ul {
 hr {border: 2px solid white;}
 .nav-links {display: none;}
 
-.header_burger:hover {
-	.nav_burger_links {display: flex;}
-}
+.header_burger:hover ⁓ .nav_burger_links {display: flex;}
        
 
 	
