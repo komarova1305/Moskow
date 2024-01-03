@@ -241,8 +241,8 @@ ul {
         width: 40px;
         right: 16px;
     }
-.line1.active {transform:rotate(45deg); top: 10px;}
-.line2.active {display: none;}
+.line1.active {transform:rotate(45deg); padding-top: 5px;}
+.line2.active {display: none; padding-bottom: 5px;}
 .line3.active {transform:rotate(-45deg);}
 .nav_burger_links.active {display: flex;}
 	
