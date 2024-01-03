@@ -225,7 +225,16 @@ ul {
     }
        
 hr {border: 2px solid white;}
-.nav-links {display: none;}
+.nav-links {
+    flex-direction: column;
+    justify-content: center;
+    color: white;
+    margin: 0;
+    width: 50%;
+    background: grey;
+    padding: 10px;
+    padding-left: 60px;
+}
 	
 .footer_container {
 	flex-direction: column;
