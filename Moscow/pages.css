@@ -247,6 +247,7 @@ ul {
 	
 hr {border: 2px solid white;}
 .nav-links {display: none;}
+
 .footer_container {
 	flex-direction: column;
 	justify-content: space-between;
@@ -256,7 +257,6 @@ hr {border: 2px solid white;}
 	padding: 24px 0 0 0;
 	}
 .footer_p {padding: 16px; margin: 0 16px; font-size: 16px;}
-.nav-links {display: block;}
 .page_img {
 	width: 100%;
    	max-width: 343px;
