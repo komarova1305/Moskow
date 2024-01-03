@@ -225,8 +225,7 @@ ul {
     }
        
 hr {border: 2px solid white;}
-
-.header_list {display: none;}
+.nav-links {display: none;}
 	
 .footer_container {
 	flex-direction: column;
@@ -239,8 +238,6 @@ hr {border: 2px solid white;}
 .footer_p {padding: 16px; margin: 0 16px; font-size: 16px;}
 .subtitle {font-size: 32px;}
 .content {margin: 32px 16px;}
-.nav_burger_links {}
-.nav-links {display: none;}
 }
 
 @font-face {
