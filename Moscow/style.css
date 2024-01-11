@@ -59,10 +59,17 @@ body {background: #f2f1f0; margin: 0 auto;}
 }
 
 .nav-links { 
-    justify-content: space-between;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
     flex-wrap: wrap;
     color: white;
     margin: 0;
+}
+
+.nav-line {
+	display: flex;
+	gap: 10px;
 }
 
 .nav-links a {
