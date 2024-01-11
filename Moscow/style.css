@@ -111,10 +111,11 @@ li {display: inline-block;
 
 ul {
     display: flex;
+    flex-wrap: wrap;
     list-style: none;
     font-size: 20px;
     font-weight: 700;
-    gap: 30px;
+    gap: 10px;
 }
 
 .links {
