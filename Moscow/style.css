@@ -60,7 +60,6 @@ body {background: #f2f1f0; margin: 0 auto;}
 
 .nav-links { 
     display: flex;
-    flex-wrap: wrap;
     color: white;
     margin: 0;
 }
