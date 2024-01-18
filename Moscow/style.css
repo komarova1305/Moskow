@@ -52,13 +52,14 @@ body {background: #f2f1f0; margin: 0 auto;}
     display: flex;
     align-items: center;
     justify-content: space-between; 
-
+    max-width: 1440px;
+    width: 100%;
     padding: 24px 0;
     margin: 0 50px;
     font-family: "Anonymous Pro", sans-serif;
 }
 
-.nav-links { 
+.nav-links ul { 
     display: flex;
     justify-content: space-between;
     color: white;
