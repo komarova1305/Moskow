@@ -5,7 +5,6 @@ body {background: #f2f1f0; margin: 0 auto;}
 .header {
     display: flex;
     background-color: #006400;
-    justify-content: space-between;
     width: 100%;
 }
 
