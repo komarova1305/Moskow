@@ -205,6 +205,9 @@ ul {
     gap: 24px;
     width: 50%;
 }
+.page_image {
+	width: 100%;
+}
 
 @media (max-width: 768px) {
 .main {gap: 24px;}
