@@ -197,17 +197,13 @@ ul {
     width: 100%;
 }
 
-.page_img {
-    width: 50%;
-    border-radius: 50px, 50px, 0px, 0px;
-}
-
 .images {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     align-items: flex-start;
     gap: 24px;
+    width: 50%;
 }
 
 @media (max-width: 768px) {
