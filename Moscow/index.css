@@ -39,4 +39,5 @@ body {background-color: DarkSeaGreen;}
  @media (max-width: 768px) {
   .mini-img {display: block; max-width: 768px; width: 100%;}
   .img {display: none;}
+  .title {font-size: 40px;}
  }
