@@ -40,4 +40,5 @@ body {background-color: DarkSeaGreen;}
   .mini-img {display: block; max-width: 768px; width: 100%;}
   .img {display: none;}
   .title {font-size: 40px;}
+  .text {font-size: 25px;}
  }
